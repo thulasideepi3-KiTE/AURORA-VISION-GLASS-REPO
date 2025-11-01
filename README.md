@@ -1,2 +1,2 @@
 # AURORA-VISION-GLASS-REPO
-Smart Vision Glass PoC using OCR and TTS
+This is my PoC project using OCR and Text-to-Speech.
